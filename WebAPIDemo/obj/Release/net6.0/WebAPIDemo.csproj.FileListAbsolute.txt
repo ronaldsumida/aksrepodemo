@@ -1,0 +1,74 @@
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\appsettings.Development.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\appsettings.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\products.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.exe
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.deps.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.runtimeconfig.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.pdb
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\IRepositoryLib.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\ProductLib.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\ProductRepoLib.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\IRepositoryLib.pdb
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\LoggerLib.pdb
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\ProductLib.pdb
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\bin\Release\net6.0\ProductRepoLib.pdb
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.csproj.AssemblyReference.cache
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.AssemblyInfoInputs.cache
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.AssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\staticwebassets.build.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\staticwebassets.development.json
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\scopedcss\bundle\WebAPIDemo.styles.css
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.csproj.CopyComplete
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\refint\WebAPIDemo.dll
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.pdb
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.genruntimeconfig.cache
+C:\demos\WebAPIDemo - Copy\WebAPIDemo\obj\Release\net6.0\ref\WebAPIDemo.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\appsettings.Development.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\appsettings.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\products.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.exe
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.deps.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.runtimeconfig.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\WebAPIDemo.pdb
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\IRepositoryLib.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\ProductLib.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\ProductRepoLib.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\IRepositoryLib.pdb
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\LoggerLib.pdb
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\ProductLib.pdb
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\bin\Release\net6.0\ProductRepoLib.pdb
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.csproj.AssemblyReference.cache
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.AssemblyInfoInputs.cache
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.AssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\staticwebassets.build.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\staticwebassets.development.json
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\scopedcss\bundle\WebAPIDemo.styles.css
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.csproj.CopyComplete
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\refint\WebAPIDemo.dll
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.pdb
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\WebAPIDemo.genruntimeconfig.cache
+C:\demos Burlington\WebAPIDemo\WebAPIDemo\obj\Release\net6.0\ref\WebAPIDemo.dll

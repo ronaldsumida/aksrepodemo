@@ -1,0 +1,48 @@
+C:\demos\WebApiDemo\LoggerLib\bin\Debug\net6.0\LoggerLib.deps.json
+C:\demos\WebApiDemo\LoggerLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos\WebApiDemo\LoggerLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.AssemblyReference.cache
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfoInputs.cache
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfo.cs
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.dll
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\refint\LoggerLib.dll
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.pdb
+C:\demos\WebApiDemo\LoggerLib\obj\Debug\net6.0\ref\LoggerLib.dll
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\bin\Debug\net6.0\LoggerLib.deps.json
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.AssemblyReference.cache
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfoInputs.cache
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfo.cs
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.dll
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\refint\LoggerLib.dll
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\ref\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\bin\Debug\net6.0\LoggerLib.deps.json
+C:\demos\WebAPIDemo - Copy\LoggerLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.AssemblyReference.cache
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfoInputs.cache
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\refint\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\LoggerLib.pdb
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Debug\net6.0\ref\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\bin\Debug\net6.0\LoggerLib.deps.json
+C:\demos Burlington\WebAPIDemo\LoggerLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.AssemblyReference.cache
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfoInputs.cache
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.AssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\refint\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\LoggerLib.pdb
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Debug\net6.0\ref\LoggerLib.dll

@@ -1,0 +1,2 @@
+getting product with id = 10
+getting all products

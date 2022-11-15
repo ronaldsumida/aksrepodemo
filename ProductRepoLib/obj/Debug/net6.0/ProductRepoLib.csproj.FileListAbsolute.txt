@@ -1,0 +1,76 @@
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.AssemblyReference.cache
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfoInputs.cache
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfo.cs
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CoreCompileInputs.cache
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.deps.json
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.dll
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.pdb
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.dll
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.pdb
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos\WebApiDemo\ProductRepoLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CopyComplete
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.dll
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\refint\ProductRepoLib.dll
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.pdb
+C:\demos\WebApiDemo\ProductRepoLib\obj\Debug\net6.0\ref\ProductRepoLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.deps.json
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.AssemblyReference.cache
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfoInputs.cache
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfo.cs
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CoreCompileInputs.cache
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CopyComplete
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\refint\ProductRepoLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ref\ProductRepoLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.deps.json
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.AssemblyReference.cache
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfoInputs.cache
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CoreCompileInputs.cache
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CopyComplete
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\refint\ProductRepoLib.dll
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductRepoLib\obj\Debug\net6.0\ref\ProductRepoLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.deps.json
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\ProductRepoLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\IRepositoryLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\LoggerLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.AssemblyReference.cache
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfoInputs.cache
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.AssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CoreCompileInputs.cache
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.csproj.CopyComplete
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\refint\ProductRepoLib.dll
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ProductRepoLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductRepoLib\obj\Debug\net6.0\ref\ProductRepoLib.dll

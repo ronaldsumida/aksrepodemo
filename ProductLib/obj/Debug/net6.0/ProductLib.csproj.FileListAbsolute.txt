@@ -1,0 +1,48 @@
+C:\demos\WebApiDemo\ProductLib\bin\Debug\net6.0\ProductLib.deps.json
+C:\demos\WebApiDemo\ProductLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos\WebApiDemo\ProductLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.csproj.AssemblyReference.cache
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfoInputs.cache
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfo.cs
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.csproj.CoreCompileInputs.cache
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.dll
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\refint\ProductLib.dll
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ProductLib.pdb
+C:\demos\WebApiDemo\ProductLib\obj\Debug\net6.0\ref\ProductLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\bin\Debug\net6.0\ProductLib.deps.json
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.csproj.AssemblyReference.cache
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfoInputs.cache
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfo.cs
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.csproj.CoreCompileInputs.cache
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\refint\ProductLib.dll
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.pdb
+C:\demos SLG\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ref\ProductLib.dll
+C:\demos\WebAPIDemo - Copy\ProductLib\bin\Debug\net6.0\ProductLib.deps.json
+C:\demos\WebAPIDemo - Copy\ProductLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos\WebAPIDemo - Copy\ProductLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.csproj.AssemblyReference.cache
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfoInputs.cache
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.csproj.CoreCompileInputs.cache
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.dll
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\refint\ProductLib.dll
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ProductLib.pdb
+C:\demos\WebAPIDemo - Copy\ProductLib\obj\Debug\net6.0\ref\ProductLib.dll
+C:\demos Burlington\WebAPIDemo\ProductLib\bin\Debug\net6.0\ProductLib.deps.json
+C:\demos Burlington\WebAPIDemo\ProductLib\bin\Debug\net6.0\ProductLib.dll
+C:\demos Burlington\WebAPIDemo\ProductLib\bin\Debug\net6.0\ProductLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.csproj.AssemblyReference.cache
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfoInputs.cache
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.AssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.csproj.CoreCompileInputs.cache
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.dll
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\refint\ProductLib.dll
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ProductLib.pdb
+C:\demos Burlington\WebAPIDemo\ProductLib\obj\Debug\net6.0\ref\ProductLib.dll

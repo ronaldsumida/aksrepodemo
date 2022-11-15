@@ -1,0 +1,24 @@
+C:\demos\WebAPIDemo - Copy\LoggerLib\bin\Release\net6.0\LoggerLib.deps.json
+C:\demos\WebAPIDemo - Copy\LoggerLib\bin\Release\net6.0\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\bin\Release\net6.0\LoggerLib.pdb
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.csproj.AssemblyReference.cache
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.AssemblyInfoInputs.cache
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.AssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\refint\LoggerLib.dll
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\LoggerLib.pdb
+C:\demos\WebAPIDemo - Copy\LoggerLib\obj\Release\net6.0\ref\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\bin\Release\net6.0\LoggerLib.deps.json
+C:\demos Burlington\WebAPIDemo\LoggerLib\bin\Release\net6.0\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\bin\Release\net6.0\LoggerLib.pdb
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.csproj.AssemblyReference.cache
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.AssemblyInfoInputs.cache
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.AssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\refint\LoggerLib.dll
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\LoggerLib.pdb
+C:\demos Burlington\WebAPIDemo\LoggerLib\obj\Release\net6.0\ref\LoggerLib.dll

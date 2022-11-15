@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfDaLU8GNo+SgKKrmDjstBzUTt/eMNT7F4ay6Rr8WwXBCLar7HhU4/YbBl0Xy3grMu1TnYfysTCtN5j7iOeCdw==",
+  "success": true,
+  "projectFilePath": "C:\\demos Burlington\\WebAPIDemo\\ProductRepoLib\\ProductRepoLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sumid\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\bin\Release\net6.0\IRepositoryLib.deps.json
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\bin\Release\net6.0\IRepositoryLib.dll
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\bin\Release\net6.0\IRepositoryLib.pdb
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.csproj.AssemblyReference.cache
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.AssemblyInfoInputs.cache
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.AssemblyInfo.cs
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.csproj.CoreCompileInputs.cache
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.dll
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\refint\IRepositoryLib.dll
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.pdb
+C:\demos\WebAPIDemo - Copy\IRepositoryLib\obj\Release\net6.0\ref\IRepositoryLib.dll
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\bin\Release\net6.0\IRepositoryLib.deps.json
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\bin\Release\net6.0\IRepositoryLib.dll
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\bin\Release\net6.0\IRepositoryLib.pdb
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.csproj.AssemblyReference.cache
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.AssemblyInfoInputs.cache
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.AssemblyInfo.cs
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.csproj.CoreCompileInputs.cache
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.dll
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\refint\IRepositoryLib.dll
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\IRepositoryLib.pdb
+C:\demos Burlington\WebAPIDemo\IRepositoryLib\obj\Release\net6.0\ref\IRepositoryLib.dll
